@@ -1,0 +1,14 @@
+Enter the dimension for each block: 2 2
+The dimension of the grid is 3200x3200
+The number of blocks is 10240000
+Input time for GPU: 46.589890 (ms) 
+Processing time for GPU: 82.344704 (ms) 
+GPU Gflops: 1.492264
+Output time for GPU: 53.387680 (ms) 
+Total time for GPU: 182.322281 (ms) 
+Processing time for CPU: 305.536377 (ms) 
+CPU Gflops: 0.402178
+Speed up of GPU = 1.675804
+
+Check result:
+Correct

@@ -1,0 +1,17 @@
+Set GPU with device ID = 0
+Starting to generate data by RNG
+Finish the generaton of data
+To find the histogram of a data set (with real numbers) (GPU with gmem): 
+Enter the number of threads per block: 1024
+Enter the number of blocks per grid: 128
+The number of blocks is 128
+Enter the number of bins of the histogram: 64
+Input time for GPU: 0.020320 (ms) 
+Processing time for GPU: 37.676033 (ms) 
+GPU Gflops: 4.348653
+Output time for GPU: 0.015424 (ms) 
+Total time for GPU: 37.711777 (ms) 
+
+Processing time for CPU: 149.051132 (ms) 
+CPU Gflops: 1.099220
+Speed up of GPU = 3.952376

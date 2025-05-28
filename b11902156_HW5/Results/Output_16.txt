@@ -1,0 +1,17 @@
+Enter the number of GPU:2
+Enter the number of threads (tx, ty):16 16
+Tumber of threads per block is 256
+The number of blocks is 2048
+The dimension of the grid is (64, 32)
+Input time for GPU: 1.992704 (ms) 
+error (GPU) = 9.999511390924454e-02
+total iterations (GPU) = 534184
+Processing time for GPU: 58238.023438 (ms) 
+GPU Gflops: 67.063170
+Output time for GPU: 1.213280 (ms) 
+Total time for GPU: 58241.230469 (ms) 
+error (CPU) = 9.998259693384171e-02
+total iterations (CPU) = 535234
+Processing time for CPU: 1996173.500000 (ms) 
+CPU Gflops: 1.960402
+Speed up of GPU = 34.274235

@@ -1,0 +1,17 @@
+Enter the number of GPUs:2
+Enter the number of threads per block:256
+Enter the number of blocks per grid:128
+Input time for GPU: 23.473856 (ms) 
+Processing time for GPU: 1.180384 (ms) 
+GPU Gflops: 104.101713
+Output time for GPU: 7.497888 (ms) 
+Total time for GPU: 32.152126 (ms) 
+Processing time for CPU: 37.223488 (ms) 
+CPU Gflops: 3.301141
+Speed up of GPU = 1.157730
+
+Check result:
+|(result_GPU - result_CPU)/result_CPU|=1.775046085309324e-09
+result_GPU =1.024131584765625e+07
+result_CPU =1.024131582947744e+07
+

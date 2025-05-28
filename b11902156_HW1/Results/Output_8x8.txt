@@ -1,0 +1,14 @@
+Enter the dimension for each block: 8 8
+The dimension of the grid is 800x800
+The number of blocks is 640000
+Input time for GPU: 46.556450 (ms) 
+Processing time for GPU: 9.838944 (ms) 
+GPU Gflops: 12.489145
+Output time for GPU: 48.846783 (ms) 
+Total time for GPU: 105.242172 (ms) 
+Processing time for CPU: 305.433624 (ms) 
+CPU Gflops: 0.402313
+Speed up of GPU = 2.902198
+
+Check result:
+Correct

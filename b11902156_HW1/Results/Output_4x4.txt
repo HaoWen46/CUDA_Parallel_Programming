@@ -1,0 +1,14 @@
+Enter the dimension for each block: 4 4
+The dimension of the grid is 1600x1600
+The number of blocks is 2560000
+Input time for GPU: 46.706303 (ms) 
+Processing time for GPU: 20.192032 (ms) 
+GPU Gflops: 6.085569
+Output time for GPU: 48.847775 (ms) 
+Total time for GPU: 115.746109 (ms) 
+Processing time for CPU: 305.467499 (ms) 
+CPU Gflops: 0.402269
+Speed up of GPU = 2.639117
+
+Check result:
+Correct

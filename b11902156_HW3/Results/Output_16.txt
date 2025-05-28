@@ -1,0 +1,14 @@
+Enter the number of L:16
+Enter the number of threads (tx, ty, tz) per block: 2 2 2
+The number of threads per block: 8
+The number of blocks per grid: 512
+The dimension of the grid is (8, 8, 8)
+Input time for GPU: 0.117760 (ms) 
+error (GPU) = 9.886654689372776e-11
+total iterations (GPU) = 937
+Processing time for GPU: 18.129408 (ms) 
+GPU Gflops: 0.992746
+Output time for GPU: 0.884768 (ms) 
+Total time for GPU: 19.131935 (ms) 
+Check result:
+error=2.774785769861540e-02
